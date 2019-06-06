@@ -8,9 +8,10 @@ end
 
 
 gem 'rails', '~> 5.1.6'
-gem 'bootstrap-sass', '3.3.7'
+gem 'bcrypt', '3.1.12'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'puma', '~> 3.9.1'
-gem 'sass-rails', '~> 5.0'
+gem 'sass-rails', '~> 5.0.6'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
