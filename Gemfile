@@ -18,6 +18,8 @@ gem 'coffee-rails', '~> 4.2.2'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7.0'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+gem 'rails-ujs', '~> 0.1.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
